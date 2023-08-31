@@ -4,6 +4,10 @@ Este ejercicio lo hice para desacortar urls maliciosos. Surgió la idea en el ar
 
 La página utiliza dos funciones, porque me di cuenta de que en ocasiones el resultado puede ser ligeramente distinto.
 
-Uno de ellos utiliza el método publicado por Jonathon Hill [Unshorten URLs with PHP and cURL](https://compwright.com/2012-05-18/unshorten-urls-with-php-and-curl/) que me parece excelente.
+Uno de ellas utiliza el método publicado por Jonathon Hill [Unshorten URLs with PHP and cURL](https://compwright.com/2012-05-18/unshorten-urls-with-php-and-curl/) que me parece excelente.
 
-Durante la investigación, extraje información del header de la página y vi que el resultado era diferente, por eso la página muestra dos resultados que pueden o no ser iguales.
+La otra función es similar, pero extrae otra información del header de la página.
+
+Por eso los resultados pueden ser o no iguales.
+
+Para ver este código ejecutandose pueden ir a [https://linuxmanr4.com/desacortador](https://linuxmanr4.com/desacortador/)
