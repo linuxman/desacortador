@@ -5,7 +5,23 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Desacortador de URLs</title>
+
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-WMR74VZ0HX"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+
+    gtag('config', 'G-WMR74VZ0HX');
+  </script>
+
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4564255988687880" crossorigin="anonymous"></script>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2/out/water.css">
+  <meta name="description" content="Esta página te permite convertir URLs cortas y desconocidas a direcciones web largas y completas.">
 </head>
 
 <body>
@@ -67,6 +83,9 @@
 
   ?>
   <hr>
+  <p>Esta página te permite convertir URLs cortas y desconocidas a direcciones web largas y completas.</p>
+  <p>Esto te ayudará a saber a dónde dirigen las URLs cortas, evitar que caigas en engaños y aumentar tu seguridad en línea.</b>
+  </p>
   <p>Si usas Linux también puedes intentarlo desde la terminal.</p>
   <code>
     curl --head "url_acortado" | grep location
