@@ -7,7 +7,7 @@
   <title>Desacortador de URLs</title>
 
   <!-- Google tag (gtag.js) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-WMR74VZ0HX"></script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-GB0GBEDRBH"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
 
@@ -16,7 +16,7 @@
     }
     gtag('js', new Date());
 
-    gtag('config', 'G-WMR74VZ0HX');
+    gtag('config', 'G-GB0GBEDRBH');
   </script>
 
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4564255988687880" crossorigin="anonymous"></script>
