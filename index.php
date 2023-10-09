@@ -4,6 +4,13 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="icon" href="favicon.ico">
+  <link rel="manifest" href="/site.webmanifest">
+
   <title>Desacortador de URLs</title>
 
   <!-- Google tag (gtag.js) -->
@@ -24,7 +31,12 @@
   <meta name="description" content="Esta página te permite convertir URLs cortas y desconocidas a direcciones web largas y completas.">
 </head>
 
+
+
 <body>
+
+  <img src="desacortador.webp" alt="Desacortador Logo">
+
   <h1>Desacortador de URLs</h1>
 
   <form action="index.php" method="post">
