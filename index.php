@@ -10,28 +10,10 @@
   <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
   <link rel="icon" href="favicon.ico">
   <link rel="manifest" href="/site.webmanifest">
-
   <title>Desacortador de URLs</title>
-
-  <!-- Google tag (gtag.js) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-GB0GBEDRBH"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-
-    function gtag() {
-      dataLayer.push(arguments);
-    }
-    gtag('js', new Date());
-
-    gtag('config', 'G-GB0GBEDRBH');
-  </script>
-
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4564255988687880" crossorigin="anonymous"></script>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2/out/water.css">
   <meta name="description" content="Esta página te permite convertir URLs cortas y desconocidas a direcciones web largas y completas.">
 </head>
-
-
 
 <body>
 
@@ -112,5 +94,20 @@
   </footer>
 
 </body>
+<!-- SCRIPTS -->
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GB0GBEDRBH"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag('js', new Date());
+
+  gtag('config', 'G-GB0GBEDRBH');
+</script>
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4564255988687880" crossorigin="anonymous"></script>
 
 </html>
