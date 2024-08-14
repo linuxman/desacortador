@@ -4,20 +4,20 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
   <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
   <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
   <link rel="icon" href="favicon.ico">
   <link rel="manifest" href="/site.webmanifest">
   <title>Desacortador de URLs</title>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2/out/water.css">
+  <link rel="preload" href="./css/light.min.css" as="style" />
   <meta name="description" content="Esta página te permite convertir URLs cortas y desconocidas a direcciones web largas y completas.">
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4564255988687880" crossorigin="anonymous"></script>
 </head>
 
 <body>
 
-  <img src="desacortador.webp" alt="Desacortador Logo">
+  <img src="desacortador.webp" alt="Desacortador Logo" width="50" height="51">
 
   <h1>Desacortador de URLs</h1>
 
@@ -107,7 +107,4 @@
 
   gtag('config', 'G-GB0GBEDRBH');
 </script>
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4564255988687880" crossorigin="anonymous"></script>
-
 </html>
