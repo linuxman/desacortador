@@ -10,7 +10,7 @@
   <link rel="icon" href="favicon.ico">
   <link rel="manifest" href="/site.webmanifest">
   <title>Desacortador de URLs</title>
-  <link rel="preload" href="./css/light.min.css" as="style" />
+  <link rel="stylesheet" href="./css/light.min.css">
   <meta name="description" content="Esta página te permite convertir URLs cortas y desconocidas a direcciones web largas y completas.">
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4564255988687880" crossorigin="anonymous"></script>
 </head>
